@@ -1,0 +1,55 @@
+/* Classes animations */
+.transition{
+  transition: background-color 1s ease, color 1s ease;
+}
+
+/* classes statiques */
+
+#quote-box{
+  background-color: azure;
+  font-family: 'Montserrat', sans-serif;
+  width: 50%;
+  min-width: 600px;
+  margin: 25vh auto;
+  padding: 2em; 
+  border-radius: 30px;
+}
+
+.quote-text{
+  text-align: center;
+  width: 90%;
+  margin: 0 auto;
+}
+#quote-icon{
+  padding-right: 20px;
+}
+#text{
+  font-size: 2.1em;
+}
+#quote-author::before{
+  content: '| ';
+}
+#quote-author{
+  margin: 2em;
+  font-size: 1.2em;
+  text-align: end;
+}
+.buttons{
+  display: flex;
+  justify-content: space-between;
+  padding: 0 50px ;
+}
+i {
+  font-size: 3em;
+
+}
+#new-quote{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.3em;
+  padding: 5px 15px;
+  color: azure;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+
+}
