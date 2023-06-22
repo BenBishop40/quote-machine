@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/freeCodeCamp0-quoteMachine.git/static/css/main.216000ba.css",
-    "main.js": "/freeCodeCamp0-quoteMachine.git/static/js/main.65afae71.js",
-    "index.html": "/freeCodeCamp0-quoteMachine.git/index.html",
-    "main.216000ba.css.map": "/freeCodeCamp0-quoteMachine.git/static/css/main.216000ba.css.map",
-    "main.65afae71.js.map": "/freeCodeCamp0-quoteMachine.git/static/js/main.65afae71.js.map"
+    "main.css": "/quote-machine/static/css/main.216000ba.css",
+    "main.js": "/quote-machine/static/js/main.65afae71.js",
+    "index.html": "/quote-machine/index.html",
+    "main.216000ba.css.map": "/quote-machine/static/css/main.216000ba.css.map",
+    "main.65afae71.js.map": "/quote-machine/static/js/main.65afae71.js.map"
   },
   "entrypoints": [
     "static/css/main.216000ba.css",
